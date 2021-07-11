@@ -1,3 +1,6 @@
 # IDEs and editors
 .history
 __pycache__
+src
+pkg
+asus-touchpad-numpad-driver
